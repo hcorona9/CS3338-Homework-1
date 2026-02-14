@@ -1,0 +1,79 @@
+commit 9c11442adbcd7c6545764bc722b73d65cbaed033
+Merge: 97391ff 1d51870
+Author: Corona <hcorona9@calstatela.edu>
+Date:   Sat Feb 14 07:17:23 2026 -0800
+
+    Merge pull request #2 from hcorona9/feature-about-me-changesByIvonne
+    
+    Update index.html
+
+commit 1d51870fd83b218941b9d2a7fe47f8b545aa3490
+Author: Ivonne Arizpe <0610ivonnearizpe@gmail.com>
+Date:   Fri Feb 13 11:12:31 2026 -0800
+
+    Update index.html
+    
+    Changes Ivonne made to the file.
+
+commit 97391ffdc75061e5e688a55ab45bd0433682fe41
+Merge: f37cdce 3ceccf5
+Author: Corona <hcorona9@calstatela.edu>
+Date:   Wed Feb 11 17:46:30 2026 -0800
+
+    Merge pull request #1 from hcorona9/feature-about-me
+    
+    Feature about me
+
+commit 3ceccf5a524539b612a25f7ecdf35ee1cbe85ce0
+Merge: 7e88a7e f37cdce
+Author: Corona <hcorona9@calstatela.edu>
+Date:   Wed Feb 11 17:46:04 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 7e88a7ec754a638b2d0daa12ae35b77973f2d070
+Author: Corona <hcorona9@calstatela.edu>
+Date:   Wed Feb 11 17:31:26 2026 -0800
+
+    updated index file
+    
+    changed the [Your Name] and other placeholders for my name and hobbies
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
